@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/478355d8-6c4b-4d21-86b7-f7095c0a24d8/resourceGroups/AppServiceQS-rg/providers/Microsoft.Web/sites/helloworldrahul",
+    "appService.deploySubpath": "."
+}
